@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. UCLA Departments of Radiology, Pathology, Bioengineering, and Electrical & Computer Engineering
+subtitle: UCLA Departments of Radiology, Pathology, Bioengineering, and Electrical & Computer Engineering
 
 profile:
   align: right
