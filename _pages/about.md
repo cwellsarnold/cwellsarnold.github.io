@@ -20,4 +20,4 @@ I am a professor and the Vice Chair of Research in the UCLA Department of Radiol
 
 I received my PhD in Information Science from UCLA and my BS in Biomedical Engineering and Computer Science from the University of Wisconsin, Madison.
 
-For the most up-to-date list of my work, please refer to the <a href="https://cdx.seas.ucla.edu/publications/">publications page</a> on my lab's website, or to my <a href="https://scholar.google.com/citations?user=ghhboLQAAAAJ">Google Scholar profile</a>.
+For the most up-to-date list of my work, please refer to the <a href="https://cdx.seas.ucla.edu/publications/">publications page</a> on my lab's website or to my <a href="https://scholar.google.com/citations?user=ghhboLQAAAAJ">Google Scholar profile</a>.
